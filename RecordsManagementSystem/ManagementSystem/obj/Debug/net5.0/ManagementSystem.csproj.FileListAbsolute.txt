@@ -1,0 +1,16 @@
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.exe
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.deps.json
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.json
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.dev.json
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.dll
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\bin\Debug\net5.0\ref\ManagementSystem.dll
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.pdb
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.dll
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\obj\Debug\net5.0\ref\ManagementSystem.dll
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.pdb
+C:\Users\11036679\source\repos\RecordsManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.genruntimeconfig.cache
